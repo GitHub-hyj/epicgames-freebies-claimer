@@ -1,8 +1,8 @@
 {
 	"accounts": [
 		{
-			"email": "932761407@qq.com",
-			"password": "Yoga0806",
+			"email": "password",
+			"password": "password",
 			"secret": "YOUR_2FA_SECRET1_HERE_OR_EMPTY",
 			"rememberLastSession": true
 		}
